@@ -12,7 +12,6 @@
 ## I'm Demetrio Bernardo 👋
 
 - 📊 Data Scientist & BI Developer focused on data-driven decision making  
-- 🎓 Bachelor’s Degree student in Information Systems (ESUP – Goiânia/GO)  
 - 🧠 Working with Data Warehousing, ETL/ELT, dashboards and analytics products  
 - ⚙️ Experience with SQL Server, PostgreSQL, Oracle, Google BigQuery, SSIS, Pentaho and Apache Airflow  
 - 💻 Building backend systems with Python (Django), REST APIs, MongoDB, HTML and CSS  
