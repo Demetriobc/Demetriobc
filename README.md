@@ -1,5 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
+<p align="center">
+  <img src="./data-pipeline-banner.svg" alt="Data Pipeline & Analytics - Demetrio Bernardo" />
+</p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=700&lines=Hello!+Welcome+to+my+GitHub!!!;Turning+data+into+insights+and+products.">
   </a>
 </div>
@@ -24,17 +27,6 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:demetriobernardocosta@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/demetrio-bernardo-948484256/)
-
----
-
-### 📈 GitHub Stats
-
-<div>
-  <a href="https://github.com/Demetriobc">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Demetriobc&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demetriobc&layout=compact&langs_count=8&theme=neon"/>
-  </a>
-</div>
 
 ---
 
@@ -84,8 +76,6 @@
 - Improving my skills in distributed data processing and cloud architectures  
 
 ---
-
-### 🐍 GitHub Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demetriobc/Demetriobc/output/github-contribution-grid-snake-dark.svg">
