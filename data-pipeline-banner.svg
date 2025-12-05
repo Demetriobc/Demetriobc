@@ -1,5 +1,5 @@
 <svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Data Pipeline & Analytics - Demetrio Bernardo</title>
+  <title id="title">Data Pipeline &amp; Analytics - Demetrio Bernardo</title>
   <desc id="desc">Banner representing a modern data pipeline from sources to data warehouse and BI dashboards.</desc>
 
   <defs>
@@ -72,7 +72,7 @@
   <!-- TAG de "role" -->
   <rect x="640" y="40" rx="999" ry="999" width="200" height="32" fill="#020617" stroke="#1F2937"/>
   <text x="652" y="61" class="mono" font-size="13" fill="#F9A8D4">
-    ■ Data & Analytics Engineer
+    ■ Data &amp; Analytics Engineer
   </text>
 
   <!-- Pipeline: Source -> ETL -> DW -> BI -->
@@ -101,7 +101,7 @@
   <g filter="url(#shadow)">
     <rect x="650" y="165" width="150" height="60" rx="14" fill="#020617" stroke="#22C55E" stroke-width="1.4"/>
   </g>
-  <text x="670" y="192" class="label" font-size="14" fill="#BBF7D0">BI & Dashboards</text>
+  <text x="670" y="192" class="label" font-size="14" fill="#BBF7D0">BI &amp; Dashboards</text>
   <text x="670" y="212" class="mono" font-size="10" fill="#4ADE80">Power BI • Storytelling</text>
 
   <!-- Arrows -->
