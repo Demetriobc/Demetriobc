@@ -7,11 +7,11 @@
 ## I'm Demetrio Bernardo 👋
 
 - 📊 Data Scientist & BI Developer focused on data-driven decision making  
-- 🎓 Bachelor’s Degree student in Information Systems (ESUP – Goiânia/GO) :contentReference[oaicite:1]{index=1}  
+- 🎓 Bachelor’s Degree student in Information Systems (ESUP – Goiânia/GO)  
 - 🧠 Working with Data Warehousing, ETL/ELT, dashboards and analytics products  
-- ⚙️ Experience with SQL Server, PostgreSQL, Oracle, Google BigQuery, SSIS, Pentaho and Apache Airflow :contentReference[oaicite:2]{index=2}  
+- ⚙️ Experience with SQL Server, PostgreSQL, Oracle, Google BigQuery, SSIS, Pentaho and Apache Airflow  
 - 📌 Passionate about building scalable data solutions that actually move business metrics forward  
-- 🌎 Languages: Portuguese (native), English & Spanish (professional working proficiency) :contentReference[oaicite:3]{index=3}  
+- 🌎 Languages: Portuguese (native), English & Spanish (professional working proficiency)
 
 > “Data is only useful when it becomes action.”  
 > I love transforming messy databases into clear stories for business.
@@ -30,9 +30,9 @@
 ### 📈 GitHub Stats
 
 <div>
-  <a href="https://github.com/SEU-USUARIO-GITHUB">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=8&theme=neon"/>
+  <a href="https://github.com/Demetriobc">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Demetriobc&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demetriobc&layout=compact&langs_count=8&theme=neon"/>
   </a>
 </div>
 
@@ -85,10 +85,12 @@
 
 ---
 
+### 🐍 GitHub Snake Animation
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO-GITHUB/SEU-USUARIO-GITHUB/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Demetriobc/Demetriobc/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Demetriobc/Demetriobc/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Demetriobc/Demetriobc/output/github-contribution-grid-snake.svg">
 </picture>
 
 <br><br>
